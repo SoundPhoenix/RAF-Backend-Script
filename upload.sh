@@ -7,3 +7,5 @@ if [[ $EUID -ne 0 ]]; then
     echo "This script must be run under the root user." 
     exit 1
 fi
+
+#p
